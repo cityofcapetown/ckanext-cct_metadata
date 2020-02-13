@@ -8,26 +8,6 @@
 .. image:: https://coveralls.io/repos/cityofcapetown/ckanext-cct_metadata/badge.svg
   :target: https://coveralls.io/r/cityofcapetown/ckanext-cct_metadata
 
-.. image:: https://pypip.in/download/ckanext-cct_metadata/badge.svg
-    :target: https://pypi.python.org/pypi//ckanext-cct_metadata/
-    :alt: Downloads
-
-.. image:: https://pypip.in/version/ckanext-cct_metadata/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-cct_metadata/
-    :alt: Latest Version
-
-.. image:: https://pypip.in/py_versions/ckanext-cct_metadata/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-cct_metadata/
-    :alt: Supported Python versions
-
-.. image:: https://pypip.in/status/ckanext-cct_metadata/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-cct_metadata/
-    :alt: Development Status
-
-.. image:: https://pypip.in/license/ckanext-cct_metadata/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-cct_metadata/
-    :alt: License
-
 =============
 ckanext-cct_metadata
 =============
@@ -153,7 +133,7 @@ To publish a new version to PyPI follow these steps:
 
 3. Upload the source distribution to PyPI::
 
-     python setup.py sdist upload
+     python setup.py sdist
 
 4. Tag the new release of the project on GitHub with the version number from
    the ``setup.py`` file. For example if the version number in ``setup.py`` is
