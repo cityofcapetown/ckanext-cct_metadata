@@ -8,12 +8,13 @@
 .. image:: https://coveralls.io/repos/cityofcapetown/ckanext-cct_metadata/badge.svg
   :target: https://coveralls.io/r/cityofcapetown/ckanext-cct_metadata
 
-=============
+====================
 ckanext-cct_metadata
-=============
+====================
 
-Applies City of Cape Town metadata standard.
+Applies City of Cape Town metadata standard. Canonical record stored `here <http://teamsites.capetown.gov.za/sites/DataStrategy/_layouts/15/WopiFrame2.aspx?sourcedoc={ED0AD300-FE87-4504-8AD1-AAE19FBC607C}&file=MetadataFields_Descriptors.xlsx&action=default>`_
 
+Uses `custom scheming extension <https://github.com/ckan/ckanext-scheming>`_ to actually implement the schema.
 
 ------------
 Requirements
@@ -21,6 +22,7 @@ Requirements
 
 ckan==2.8.3
 
+ckanext_scheming==1.2.0
 
 ------------
 Installation
