@@ -1,0 +1,171 @@
+{
+  "scheming_version": 1,
+  "dataset_type": "dataset",
+  "about": "Schema for the City of Cape Town",
+  "about_url": "http://github.com/ckan/ckanext-scheming",
+  "resource_fields": [
+    {
+      "field_name": "url",
+      "label": "URL",
+      "preset": "resource_url_upload"
+    },
+    {
+      "field_name": "name",
+      "label": "Name",
+      "form_placeholder": "eg. January 2020 Service Requests"
+    },
+    {
+      "field_name": "description",
+      "label": "Description",
+      "form_snippet": "markdown.html",
+      "form_placeholder": "Some useful notes about the data"
+    },
+    {
+      "field_name": "format",
+      "label": "Format",
+      "preset": "resource_format_autocomplete"
+    }
+  ],
+  "dataset_fields": [
+    {
+      "label": "Unique ID",
+      "field_name": "name",
+      "help_text": "Dataset unique ID",
+      "required": true,
+      "preset": "dataset_slug"
+    },
+    {
+      "label": "Data Set Name",
+      "field_name": "name",
+      "help_text": "A name given to the dataset.",
+      "required": true,
+      "preset": "title"
+    },
+    {
+      "label": "Data Set Description (Including purpose)",
+      "field_name": "data_set_description",
+      "help_text": "A summary of the dataset.",
+      "required": true,
+      "form_snippet": "markdown.html"
+    },
+    {
+      "label": "Data Quality",
+      "field_name": "data_quality",
+      "help_text": "Subjective assesment of dataset quality.",
+      "required": true
+    },
+    {
+      "label": "Update Frequency",
+      "field_name": "update_frequency",
+      "help_text": "How often is data updated in the data set?",
+      "required": true,
+      "preset": "select",
+      "choices": [
+        {
+          "label": "Historical",
+          "value": "historical"
+        },
+        {
+          "label": "Event-based",
+          "value": "event-based"
+        }
+      ]
+    },
+    {
+      "label": "Data Access Rights",
+      "field_name": "data_access_rights",
+      "help_text": "Indicates the classification of the dataset in terms of access",
+      "required": true,
+      "preset": "select",
+      "choices": [
+        {
+          "label": "Open Public",
+          "value": "open_public"
+        },
+        {
+          "label": "Internal Open",
+          "value": "internal_open"
+        },
+        {
+          "label": "Internal Restricted",
+          "value": "internal_restricted"
+        },
+        {
+          "label": "Secret",
+          "value": "secret"
+        }
+      ]
+    },
+    {
+      "label": "Restricted Reason",
+      "field_name": "restricted_reason",
+      "help_text": "To be completed if the data is indicated as Restricted",
+      "required": false
+    },
+    {
+      "label": "Data Format",
+      "field_name": "data_format",
+      "help_text": "Provides an indication of the interoperable structure of the data as reflected by the primary file format in which the system exports data",
+      "required": true,
+      "preset": "resource_format_autocomplete"
+    },
+    {
+      "label": "Data Steward",
+      "field_name": "maintainer",
+      "help_text": "Indicates the individual who assumes business accountability for the dataset in relation to aspects such as access, quality, integrity, completeness.",
+      "required": true,
+      "display_property": "dc:contributor"
+    },
+    {
+      "label": "DS/TR Branch",
+      "field_name": "dstr_branch",
+      "help_text": "Indicates the organisational unit (branch) of the data steward",
+      "required": true
+    },
+    {
+      "label": "DS/TR Department",
+      "field_name": "dstr_department",
+      "help_text": "Indicates the organisational unit (department) of the data steward",
+      "required": true
+    },
+    {
+      "label": "DS/TR Directorate",
+      "field_name": "owner_org",
+      "help_text": "Indicates the organisational unit (directorate) of the data steward",
+      "required": true,
+      "preset": "dataset_organization"
+    },
+    {
+      "label": "Data Contact ",
+      "field_name": "data_contact_",
+      "help_text": "Indicates the official who works most closely with and can best provide additional information about the data and metadata",
+      "required": true
+    },
+    {
+      "label": "Data Custodian",
+      "field_name": "data_custodian",
+      "help_text": "Indicates the individual who is responsible for the technical management of the date e.g. the hosting and serving of the data",
+      "required": true
+    },
+    {
+      "label": "Host System ID",
+      "field_name": "host_system_id",
+      "help_text": "Unique ID of the appilication in which the data is stored (primary/source system)",
+      "required": true
+    },
+    {
+      "label": "Spatial Coverage",
+      "field_name": "spatial_coverage",
+      "help_text": "Is there any spatial data in this dataset?",
+      "required": true,
+      "preset": "boolean_select"
+    },
+    {
+      "label": "Temporal Coverage",
+      "field_name": "temporal_coverage",
+      "help_text": "Is there any temporal data in this dataset?",
+      "required": true,
+      "preset": "boolean_select"
+    }
+  ]
+}
