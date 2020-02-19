@@ -1,0 +1,25 @@
+{
+  "scheming_presets_version": 1,
+  "about": "these are the default scheming field presets",
+  "about_url": "https://github.com/cityofcapetown/ckanext-cct_metadata",
+  "presets": [
+    {
+      "preset_name": "boolean_select",
+      "values": {
+        "form_snippet": "select.html",
+        "display_snippet": "select.html",
+        "validators": "scheming_required scheming_choices",
+        "choices": [
+          {
+            "value": true,
+            "label": "Yes"
+          },
+          {
+            "value": false,
+            "label": "No"
+          }
+        ]
+      }
+    }
+  ]
+}
