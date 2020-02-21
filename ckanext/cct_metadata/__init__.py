@@ -1,0 +1,1 @@
+CITY_STRUCTURE_FILENAME = "city_structure.json"

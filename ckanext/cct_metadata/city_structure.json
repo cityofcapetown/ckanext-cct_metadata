@@ -1,0 +1,2864 @@
+[
+  {
+    "name": "Community Services And Health",
+    "departments": [
+      {
+        "name": "Administration",
+        "branches": []
+      },
+      {
+        "name": "City Health",
+        "branches": [
+          {
+            "name": "Area Central"
+          },
+          {
+            "name": "Area East"
+          },
+          {
+            "name": "Area North"
+          },
+          {
+            "name": "Area South"
+          },
+          {
+            "name": "Epwp -Epwp H/O Admin Support"
+          },
+          {
+            "name": "Epwp -Sa Admin: Albow Gardens"
+          },
+          {
+            "name": "Epwp -Sa Admin: Delft"
+          },
+          {
+            "name": "Epwp -Sa Admin: Eersterivier"
+          },
+          {
+            "name": "Epwp -Sa Admin: Manenberg"
+          },
+          {
+            "name": "Epwp -Sa Admin: Parkwood"
+          },
+          {
+            "name": "Epwp -Sa Admin: Tafelsig"
+          },
+          {
+            "name": "Epwp -Substance Abuse Admin.Support"
+          },
+          {
+            "name": "Epwp -Substance Abuse Admin.Support"
+          },
+          {
+            "name": "Epwp -Substance Abuse: Students"
+          },
+          {
+            "name": "Epwp -Substance Abuse: Students"
+          },
+          {
+            "name": "Epwp -W/A: Goodwood Clinic"
+          },
+          {
+            "name": "Finance (Health)"
+          },
+          {
+            "name": "Specialised Health Services"
+          },
+          {
+            "name": "Support: City Health"
+          }
+        ]
+      },
+      {
+        "name": "Finance (Comserv)",
+        "branches": []
+      },
+      {
+        "name": "Hr Business Partner (Comserv)",
+        "branches": [
+          {
+            "name": "Ohs And Eap"
+          },
+          {
+            "name": "Workforce Performance Management"
+          }
+        ]
+      },
+      {
+        "name": "Library And Information Services",
+        "branches": [
+          {
+            "name": "Area Central"
+          },
+          {
+            "name": "Area East"
+          },
+          {
+            "name": "Area North"
+          },
+          {
+            "name": "Area South"
+          },
+          {
+            "name": "Finance (Libraries)"
+          },
+          {
+            "name": "Specialized Operations"
+          },
+          {
+            "name": "Support Services : Libraries"
+          }
+        ]
+      },
+      {
+        "name": "Planning & Development & Pmo",
+        "branches": [
+          {
+            "name": "Administration"
+          },
+          {
+            "name": "Finance"
+          },
+          {
+            "name": "Gis, Information And Property Management"
+          },
+          {
+            "name": "Planning And Development"
+          },
+          {
+            "name": "Project Management Office"
+          }
+        ]
+      },
+      {
+        "name": "Recreation And Parks",
+        "branches": [
+          {
+            "name": "Recreation And Parks Support Services"
+          },
+          {
+            "name": "Recreation And Parks: Area Central"
+          },
+          {
+            "name": "Recreation And Parks: Area East"
+          },
+          {
+            "name": "Recreation And Parks: Area North"
+          },
+          {
+            "name": "Recreation And Parks: Area South"
+          },
+          {
+            "name": "Recreation And Parks: Centralised Operations And Programmes"
+          },
+          {
+            "name": "Recreation And Parks: Facilities Maintenance And Project Management"
+          },
+          {
+            "name": "Recreation And Parks: Finance Support"
+          }
+        ]
+      },
+      {
+        "name": "Social Development & Early Childhood Development",
+        "branches": [
+          {
+            "name": "Area Central Sdecd"
+          },
+          {
+            "name": "Area East Sdecd"
+          },
+          {
+            "name": "Area North Sdecd"
+          },
+          {
+            "name": "Area South Sdecd"
+          },
+          {
+            "name": "Arts And Culture"
+          },
+          {
+            "name": "Centralised Operations, Programmes & Pmo"
+          },
+          {
+            "name": "Epwp -1 Support Area Central"
+          },
+          {
+            "name": "Epwp -1 Support Area North"
+          },
+          {
+            "name": "Epwp -19/20 Wfc Project Support"
+          },
+          {
+            "name": "Epwp -19/20 Wfc Ward 10"
+          },
+          {
+            "name": "Epwp -19/20 Wfc Ward 10"
+          },
+          {
+            "name": "Epwp -19/20 Wfc Ward 106"
+          },
+          {
+            "name": "Epwp -19/20 Wfc Ward 12"
+          },
+          {
+            "name": "Epwp -19/20 Wfc Ward 28"
+          },
+          {
+            "name": "Epwp -19/20 Wfc Ward 30"
+          },
+          {
+            "name": "Epwp -19/20 Wfc Ward 31"
+          },
+          {
+            "name": "Epwp -19/20 Wfc Ward 39"
+          },
+          {
+            "name": "Epwp -19/20 Wfc Ward 44"
+          },
+          {
+            "name": "Epwp -19/20 Wfc Ward 46"
+          },
+          {
+            "name": "Epwp -19/20 Wfc Ward 50"
+          },
+          {
+            "name": "Epwp -2019/20 Is Phase 2"
+          },
+          {
+            "name": "Epwp -2019/20 Saa Ward 106"
+          },
+          {
+            "name": "Epwp -2019/20 Ward 13"
+          },
+          {
+            "name": "Epwp -2019/20 Wfc Support 2"
+          },
+          {
+            "name": "Epwp -2019/20 Wfc Support 2"
+          },
+          {
+            "name": "Epwp -2019/20 Wfc Ward 40"
+          },
+          {
+            "name": "Epwp -After School Game Changer"
+          },
+          {
+            "name": "Epwp -After School Game Changer"
+          },
+          {
+            "name": "Epwp -After School Game Changer 2"
+          },
+          {
+            "name": "Epwp -After School Game Changer 3"
+          },
+          {
+            "name": "Epwp -After School Game Changer 4"
+          },
+          {
+            "name": "Epwp -Alo - Shay"
+          },
+          {
+            "name": "Epwp -Alo - Shay"
+          },
+          {
+            "name": "Epwp -Alo - Shay 1"
+          },
+          {
+            "name": "Epwp -Alo - Shay 1"
+          },
+          {
+            "name": "Epwp -Brian F South"
+          },
+          {
+            "name": "Epwp -Clo'S - Daniel"
+          },
+          {
+            "name": "Epwp -Clo'S - Msk"
+          },
+          {
+            "name": "Epwp -Clo'S - Shay"
+          },
+          {
+            "name": "Epwp -Community And Cultural Development"
+          },
+          {
+            "name": "Epwp -Community And Cultural Development"
+          },
+          {
+            "name": "Epwp -Community And Cultural Development"
+          },
+          {
+            "name": "Epwp -Community And Cultural Development"
+          },
+          {
+            "name": "Epwp -Community And Cultural Development"
+          },
+          {
+            "name": "Epwp -Culemborg Safe Space Law Enforceme"
+          },
+          {
+            "name": "Epwp -Deon Assets"
+          },
+          {
+            "name": "Epwp -East Admin Support"
+          },
+          {
+            "name": "Epwp -East Admin Support"
+          },
+          {
+            "name": "Epwp -Ecd Resource Libraries"
+          },
+          {
+            "name": "Epwp -Ecd Resource Libraries"
+          },
+          {
+            "name": "Epwp -Ecd South: Cafda"
+          },
+          {
+            "name": "Epwp -Ecd South: Cuba Heights"
+          },
+          {
+            "name": "Epwp -Ecd South: Eagle Park"
+          },
+          {
+            "name": "Epwp -Ecd South: Grassy Park"
+          },
+          {
+            "name": "Epwp -Ecd South: Lavender Hill"
+          },
+          {
+            "name": "Epwp -Ecd South: Lotus River"
+          },
+          {
+            "name": "Epwp -Ecd South: Montague Village"
+          },
+          {
+            "name": "Epwp -Ecd South: New Horizons"
+          },
+          {
+            "name": "Epwp -Ecd South: Ocean View"
+          },
+          {
+            "name": "Epwp -Ecd South: Ottery"
+          },
+          {
+            "name": "Epwp -Ecd South: Parkwood"
+          },
+          {
+            "name": "Epwp -Ecd South: Pelican Park"
+          },
+          {
+            "name": "Epwp -Ecd South: Retreat"
+          },
+          {
+            "name": "Epwp -Ecd South: Seawinds"
+          },
+          {
+            "name": "Epwp -Ecd South: Steenberg"
+          },
+          {
+            "name": "Epwp -Ecd South: Village Heights"
+          },
+          {
+            "name": "Epwp -Ecd South: Ward 33"
+          },
+          {
+            "name": "Epwp -Ecd South: Ward 34/80"
+          },
+          {
+            "name": "Epwp -Ecd South: Ward 35"
+          },
+          {
+            "name": "Epwp -Ecd South: Ward 36"
+          },
+          {
+            "name": "Epwp -Ecd South: Ward 36"
+          },
+          {
+            "name": "Epwp -Ecd South: Ward 75/76"
+          },
+          {
+            "name": "Epwp -Ecd South: Ward 79"
+          },
+          {
+            "name": "Epwp -Ecd South: Ward 81"
+          },
+          {
+            "name": "Epwp -Ecd South: Ward 82"
+          },
+          {
+            "name": "Epwp -Ecd South: Ward 88"
+          },
+          {
+            "name": "Epwp -Ecd-Holiday Program"
+          },
+          {
+            "name": "Epwp -Epwp-Sdecd East Ywr Delft"
+          },
+          {
+            "name": "Epwp -Epwp-Sdecd East Ywr Eersteriver"
+          },
+          {
+            "name": "Epwp -Epwp-Sdecd East Ywr Khaya"
+          },
+          {
+            "name": "Epwp -Epwp-Sdecd East Ywr Kuilsriver"
+          },
+          {
+            "name": "Epwp -Epwp-Sdecd East Ywr Macassar"
+          },
+          {
+            "name": "Epwp -Epwp-Sdecd East Ywr Mfuleni"
+          },
+          {
+            "name": "Epwp -Epwp-Sdecd East Ywr Sir Lowry Pass"
+          },
+          {
+            "name": "Epwp -Epwp-Sdecd East Ywr Strand"
+          },
+          {
+            "name": "Epwp -Facility Maintenance"
+          },
+          {
+            "name": "Epwp -Facility Maintenance"
+          },
+          {
+            "name": "Epwp -Facility Maintenance1"
+          },
+          {
+            "name": "Epwp -Info.Marikana"
+          },
+          {
+            "name": "Epwp -Info.Marikana"
+          },
+          {
+            "name": "Epwp -Informal Settlement Ae Driftsands"
+          },
+          {
+            "name": "Epwp -Informal Settlement Ae Kalkfontein"
+          },
+          {
+            "name": "Epwp -Informal Settlement Ae Khayelitsa"
+          },
+          {
+            "name": "Epwp -Informal Settlement Ae Khayelitsha"
+          },
+          {
+            "name": "Epwp -Informal Settlement Ae Mfuleni"
+          },
+          {
+            "name": "Epwp -Informal Settlement Ae Sir Lowry P"
+          },
+          {
+            "name": "Epwp -Informal Settlement Khayelitsa"
+          },
+          {
+            "name": "Epwp -Men'S Emp: Camp Joy"
+          },
+          {
+            "name": "Epwp -Men'S Emp: Ctdcc"
+          },
+          {
+            "name": "Epwp -Men'S Emp: Mustadafin"
+          },
+          {
+            "name": "Epwp -Men'S Emp: Ymca"
+          },
+          {
+            "name": "Epwp -Men'S Empowerment"
+          },
+          {
+            "name": "Epwp -Men'S Empowerment"
+          },
+          {
+            "name": "Epwp -Men'S Empowerment"
+          },
+          {
+            "name": "Epwp -Men'S Empowerment"
+          },
+          {
+            "name": "Epwp -Project Support"
+          },
+          {
+            "name": "Epwp -Sdecd East Blackheath"
+          },
+          {
+            "name": "Epwp -Sdecd East Blackheath"
+          },
+          {
+            "name": "Epwp -Sdecd East Happy Valley"
+          },
+          {
+            "name": "Epwp -Sdecd East Mandalay"
+          },
+          {
+            "name": "Epwp -Sdecd East Ywr Khayelitsha Harare"
+          },
+          {
+            "name": "Epwp -Sdecd East Ywr Khayelitsha Harare"
+          },
+          {
+            "name": "Epwp -Sdecd East Ywr Khayelitsha Site B"
+          },
+          {
+            "name": "Epwp -Sdecd East Ywr Khayelitsha Site B"
+          },
+          {
+            "name": "Epwp -Sdecd East Ywr Khyalitsha"
+          },
+          {
+            "name": "Epwp -Sdecd East Ywr Khyalitsha"
+          },
+          {
+            "name": "Epwp -Shiobhan - Comms"
+          },
+          {
+            "name": "Epwp -Street People 107 Call Takers"
+          },
+          {
+            "name": "Epwp -Street People 107 Call Takers"
+          },
+          {
+            "name": "Epwp -Street People Economics 1"
+          },
+          {
+            "name": "Epwp -Street People Economics 1"
+          },
+          {
+            "name": "Epwp -Street People Economics 1"
+          },
+          {
+            "name": "Epwp -Street People Economics 10"
+          },
+          {
+            "name": "Epwp -Street People Economics 10"
+          },
+          {
+            "name": "Epwp -Street People Economics 11"
+          },
+          {
+            "name": "Epwp -Street People Economics 11"
+          },
+          {
+            "name": "Epwp -Street People Economics 12"
+          },
+          {
+            "name": "Epwp -Street People Economics 12"
+          },
+          {
+            "name": "Epwp -Street People Economics 2"
+          },
+          {
+            "name": "Epwp -Street People Economics 2"
+          },
+          {
+            "name": "Epwp -Street People Economics 3"
+          },
+          {
+            "name": "Epwp -Street People Economics 3"
+          },
+          {
+            "name": "Epwp -Street People Economics 4"
+          },
+          {
+            "name": "Epwp -Street People Economics 4"
+          },
+          {
+            "name": "Epwp -Street People Economics 5"
+          },
+          {
+            "name": "Epwp -Street People Economics 5"
+          },
+          {
+            "name": "Epwp -Street People Economics 6"
+          },
+          {
+            "name": "Epwp -Street People Economics 6"
+          },
+          {
+            "name": "Epwp -Street People Economics 7"
+          },
+          {
+            "name": "Epwp -Street People Economics 7"
+          },
+          {
+            "name": "Epwp -Street People Economics 8"
+          },
+          {
+            "name": "Epwp -Street People Economics 8"
+          },
+          {
+            "name": "Epwp -Street People Economics 9"
+          },
+          {
+            "name": "Epwp -Street People Economics 9"
+          },
+          {
+            "name": "Epwp -Street People Semi-Skilled Workers"
+          },
+          {
+            "name": "Epwp -Street People Semi-Skilled Workers"
+          },
+          {
+            "name": "Epwp -Support - Daniel"
+          },
+          {
+            "name": "Epwp -Support - Msk"
+          },
+          {
+            "name": "Epwp -Support - Msk"
+          },
+          {
+            "name": "Epwp -Support - Msk"
+          },
+          {
+            "name": "Epwp -Support Epwp Area North"
+          },
+          {
+            "name": "Epwp -Valencia -H/O"
+          },
+          {
+            "name": "Epwp -Ward 54"
+          },
+          {
+            "name": "Epwp -Ward 61"
+          },
+          {
+            "name": "Epwp -Ward 61"
+          },
+          {
+            "name": "Epwp -Ward 84"
+          },
+          {
+            "name": "Epwp -Wa-Ward 20 Wfc Central"
+          },
+          {
+            "name": "Epwp -Wfc Pelikan Park"
+          },
+          {
+            "name": "Epwp -Wfc Pelikan Park"
+          },
+          {
+            "name": "Epwp -Wfc Phase 3:Site B"
+          },
+          {
+            "name": "Epwp -Wfc Phase 3:Site B"
+          },
+          {
+            "name": "Epwp -Wfc Phase 3:Site B"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Beacon Valley"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Beacon Valley"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Clerk"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Clerk"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Clo"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Clo"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Driftsands"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Driftsands"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Driver"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Driver"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Harare"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Harare"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Kalkfontein"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Kalkfontein"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Kalkfontein"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Lwandle"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Lwandle"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Lwandle"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Makhaza"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Makhaza"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Mfuleni"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Mfuleni"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Mfuleni"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Montrose Park"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Montrose Park"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Nomzamo"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Nomzamo"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Nomzamo"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Sirlowry'S Pass"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Sirlowry'S Pass"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Sirlowry'S Pass"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Sirlowry'S Pass"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Wesbank"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Wesbank"
+          },
+          {
+            "name": "Epwp -Wfc Phase3:Wesbank"
+          },
+          {
+            "name": "Epwp -Wfc Philippi"
+          },
+          {
+            "name": "Epwp -Wfc Philippi"
+          },
+          {
+            "name": "Epwp -Wfc Retreat"
+          },
+          {
+            "name": "Epwp -Wfc Retreat"
+          },
+          {
+            "name": "Epwp -Wfc Seawinds"
+          },
+          {
+            "name": "Epwp -Wfc Seawinds"
+          },
+          {
+            "name": "Epwp -Wfc Seawinds"
+          },
+          {
+            "name": "Epwp -Wfc Seawinds"
+          },
+          {
+            "name": "Epwp -Wfc Seawinds"
+          },
+          {
+            "name": "Epwp -Wfc Tafelsig"
+          },
+          {
+            "name": "Epwp -Wfc Tafelsig"
+          },
+          {
+            "name": "Epwp -Wfc Woodlands"
+          },
+          {
+            "name": "Epwp -Wfc Woodlands"
+          },
+          {
+            "name": "Epwp -Work Readiness:Kuilsriver"
+          },
+          {
+            "name": "Epwp -Wsd Sc11"
+          },
+          {
+            "name": "Epwp -Wsd Sc14"
+          },
+          {
+            "name": "Epwp -Wsd Sc17"
+          },
+          {
+            "name": "Epwp -Wsd Sc4"
+          },
+          {
+            "name": "Epwp -Wsd Sc4"
+          },
+          {
+            "name": "Epwp -Wsd Sc5"
+          },
+          {
+            "name": "Epwp -Wsd Sc6"
+          },
+          {
+            "name": "Epwp -Youth Work Readiness"
+          },
+          {
+            "name": "Epwp -Youth Work Readiness"
+          },
+          {
+            "name": "Epwp -Youth Work Readiness"
+          },
+          {
+            "name": "Epwp -Youth Work Readiness: Mitchells Pl"
+          },
+          {
+            "name": "Epwp -Youth Work Readiness: Mitchells Pl"
+          },
+          {
+            "name": "Epwp -Youth Work Readiness: Mitchells Pl"
+          },
+          {
+            "name": "Epwp -Youth: Cafda"
+          },
+          {
+            "name": "Epwp -Youth: Crossroads"
+          },
+          {
+            "name": "Epwp -Youth: Grassy Park"
+          },
+          {
+            "name": "Epwp -Youth: L / Crossroads"
+          },
+          {
+            "name": "Epwp -Youth: Lavender Hill"
+          },
+          {
+            "name": "Epwp -Youth: Lentegeur"
+          },
+          {
+            "name": "Epwp -Youth: Lotus River"
+          },
+          {
+            "name": "Epwp -Youth: Ocean View"
+          },
+          {
+            "name": "Epwp -Youth: Parkwood"
+          },
+          {
+            "name": "Epwp -Youth: Pelican Park"
+          },
+          {
+            "name": "Epwp -Youth: Philippi / Lower"
+          },
+          {
+            "name": "Epwp -Youth: Retreat"
+          },
+          {
+            "name": "Epwp -Youth: Rocklands"
+          },
+          {
+            "name": "Epwp -Youth: Samora/Browns Farm"
+          },
+          {
+            "name": "Epwp -Youth: Sports Complex"
+          },
+          {
+            "name": "Epwp -Youth: Steenberg"
+          },
+          {
+            "name": "Epwp -Youth: Tafelsig"
+          },
+          {
+            "name": "Epwp -Youth: Tokai"
+          },
+          {
+            "name": "Epwp -Youth: Village"
+          },
+          {
+            "name": "Epwp -Youth: Woodlands"
+          },
+          {
+            "name": "Epwp -Youth: Zeekoevlei"
+          },
+          {
+            "name": "Epwp -Youth:B/Valley & Eastridge"
+          },
+          {
+            "name": "Social Development & Early Childhood Development Finance"
+          },
+          {
+            "name": "Support Services Sdecd"
+          }
+        ]
+      },
+      {
+        "name": "Support Services (Comserv)",
+        "branches": [
+          {
+            "name": "Administration (Cs Strategic Support)"
+          },
+          {
+            "name": "Monitoring, Evaluation And Compliance"
+          },
+          {
+            "name": "Project And Service Integration"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Corporate Services",
+    "departments": [
+      {
+        "name": "Communications",
+        "branches": [
+          {
+            "name": "Digital Communication"
+          },
+          {
+            "name": "Media"
+          },
+          {
+            "name": "Production"
+          },
+          {
+            "name": "Publications"
+          }
+        ]
+      },
+      {
+        "name": "Corporate Project, Programme And Portfolio Management",
+        "branches": [
+          {
+            "name": "Corporate Services: Pmo"
+          },
+          {
+            "name": "Engineering Services Unit"
+          },
+          {
+            "name": "Project Portfolio Management"
+          }
+        ]
+      },
+      {
+        "name": "Customer Relations",
+        "branches": [
+          {
+            "name": "Corporate Contact Centre"
+          },
+          {
+            "name": "Support Services"
+          },
+          {
+            "name": "Training And Development"
+          }
+        ]
+      },
+      {
+        "name": "Executive Committees & Cs Operations",
+        "branches": [
+          {
+            "name": "Administration And Logistics"
+          },
+          {
+            "name": "Committee Services"
+          },
+          {
+            "name": "Finance (Cs)"
+          },
+          {
+            "name": "Hr Business Partner"
+          },
+          {
+            "name": "Hr Business Partner (Cs)"
+          },
+          {
+            "name": "Language Services"
+          },
+          {
+            "name": "Support Services (Cs)"
+          },
+          {
+            "name": "Support Services Ecs"
+          }
+        ]
+      },
+      {
+        "name": "Human Resources",
+        "branches": [
+          {
+            "name": "Eap And Wellness"
+          },
+          {
+            "name": "Employee Relations"
+          },
+          {
+            "name": "Hr Business Systems"
+          },
+          {
+            "name": "Occupational Health & Safety"
+          },
+          {
+            "name": "Organisational Management"
+          },
+          {
+            "name": "Strategic Staffing"
+          },
+          {
+            "name": "Support Services Hr"
+          },
+          {
+            "name": "Total Reward, Service Conditions And Pa"
+          },
+          {
+            "name": "Training And Development"
+          }
+        ]
+      },
+      {
+        "name": "Information And Knowledge Management",
+        "branches": [
+          {
+            "name": "Corporate Gis"
+          },
+          {
+            "name": "Geomatics"
+          },
+          {
+            "name": "Integrated Knowledge And Records Management"
+          },
+          {
+            "name": "Support Services Ikm"
+          }
+        ]
+      },
+      {
+        "name": "Information Systems And Technology",
+        "branches": [
+          {
+            "name": "Architecture And Governance"
+          },
+          {
+            "name": "Business Applications"
+          },
+          {
+            "name": "Distributed Computing"
+          },
+          {
+            "name": "Erp Support Centre"
+          },
+          {
+            "name": "Infrastructure"
+          },
+          {
+            "name": "It Hr"
+          },
+          {
+            "name": "It Programme Office And Admin"
+          },
+          {
+            "name": "Telecommunications"
+          }
+        ]
+      },
+      {
+        "name": "Legal Services",
+        "branches": [
+          {
+            "name": "Access To Information"
+          },
+          {
+            "name": "Corporate Advisory Services"
+          },
+          {
+            "name": "Epwp -Ls Admin Support"
+          },
+          {
+            "name": "Legal Processes And Administration"
+          },
+          {
+            "name": "Legislative Development"
+          },
+          {
+            "name": "Municipal Courts"
+          }
+        ]
+      },
+      {
+        "name": "Office Administration",
+        "branches": []
+      },
+      {
+        "name": "Organisational Effectiveness & Innovation",
+        "branches": [
+          {
+            "name": "Employment Equity"
+          },
+          {
+            "name": "Innovation And Operational Effectiveness"
+          },
+          {
+            "name": "Organisational Development"
+          }
+        ]
+      },
+      {
+        "name": "Organisational Performance Management",
+        "branches": [
+          {
+            "name": "Contract Management"
+          },
+          {
+            "name": "Idp Performance Management"
+          },
+          {
+            "name": "Organizational Performance Management"
+          }
+        ]
+      },
+      {
+        "name": "Policy And Strategy",
+        "branches": [
+          {
+            "name": "Economic Analysis"
+          },
+          {
+            "name": "Research"
+          },
+          {
+            "name": "Strategic Planning"
+          },
+          {
+            "name": "Strategic Policy"
+          }
+        ]
+      },
+      {
+        "name": "Resilience",
+        "branches": []
+      }
+    ]
+  },
+  {
+    "name": "Economic Opportunities And Asset Management",
+    "departments": [
+      {
+        "name": "Enterprise And Investment",
+        "branches": [
+          {
+            "name": "Catalytic Sectors"
+          },
+          {
+            "name": "Development Facilitation"
+          },
+          {
+            "name": "Enterprise Development"
+          },
+          {
+            "name": "Investment Facilitation"
+          },
+          {
+            "name": "Place Marketing"
+          },
+          {
+            "name": "Support Services (Ent And Inv)"
+          }
+        ]
+      },
+      {
+        "name": "Facilities Management",
+        "branches": [
+          {
+            "name": "Centralised Facilities Mngmt And Maint."
+          },
+          {
+            "name": "Support Services Facilities Management"
+          },
+          {
+            "name": "Transversal Facilities Management And Maintenance Services"
+          }
+        ]
+      },
+      {
+        "name": "Finance(Eoam)",
+        "branches": []
+      },
+      {
+        "name": "Fleet Management",
+        "branches": [
+          {
+            "name": "Fleet Administration Services"
+          },
+          {
+            "name": "Fleet Management Services"
+          },
+          {
+            "name": "Support Services Fleet"
+          }
+        ]
+      },
+      {
+        "name": "Hr Business Partner (Eoam)",
+        "branches": []
+      },
+      {
+        "name": "Office Administration Manager Eoam",
+        "branches": []
+      },
+      {
+        "name": "Pmo - Eoam",
+        "branches": []
+      },
+      {
+        "name": "Property Management",
+        "branches": [
+          {
+            "name": "Immovable Property Planning"
+          },
+          {
+            "name": "Property Disposals And Acquisitions"
+          },
+          {
+            "name": "Property Holding"
+          },
+          {
+            "name": "Property Transaction Management"
+          },
+          {
+            "name": "Support Services Property Management"
+          },
+          {
+            "name": "Transversal Real Estate Services"
+          }
+        ]
+      },
+      {
+        "name": "Strategic Assets",
+        "branches": [
+          {
+            "name": "Athlone Stadium"
+          },
+          {
+            "name": "Cape Town City Hall"
+          },
+          {
+            "name": "Granary"
+          },
+          {
+            "name": "Operations And Maintenance"
+          },
+          {
+            "name": "Sea Point Precinct"
+          },
+          {
+            "name": "Strategic Assets Departmetal Support"
+          }
+        ]
+      },
+      {
+        "name": "Support Services (Eoam)",
+        "branches": []
+      }
+    ]
+  },
+  {
+    "name": "Energy And Climate Change",
+    "departments": [
+      {
+        "name": "Administrative Support",
+        "branches": []
+      },
+      {
+        "name": "Electricity Generation And Distribution",
+        "branches": [
+          {
+            "name": "Electricity Retail Management"
+          },
+          {
+            "name": "Electricity Supply"
+          },
+          {
+            "name": "Engineering"
+          },
+          {
+            "name": "Enterprise Asset Management"
+          },
+          {
+            "name": "Finance And Commercial Egd"
+          },
+          {
+            "name": "Infrastructure Operations"
+          },
+          {
+            "name": "Support Services Electricity Generation"
+          },
+          {
+            "name": "Technical Support Services"
+          }
+        ]
+      },
+      {
+        "name": "Energy And Climate Change: Pmo",
+        "branches": []
+      },
+      {
+        "name": "Sustainable Energy Markets",
+        "branches": [
+          {
+            "name": "Climate Change And Integration Platforms"
+          },
+          {
+            "name": "Generation Development & Mun Efficiency"
+          },
+          {
+            "name": "Green Energy"
+          },
+          {
+            "name": "Low Income Nrg Services & Built Envirmnt"
+          },
+          {
+            "name": "Re & Energy Efficiency Promo & Facilitat"
+          },
+          {
+            "name": "Support Services Energy Markets"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Finance",
+    "departments": [
+      {
+        "name": "Budgets",
+        "branches": [
+          {
+            "name": "Capital Budget"
+          },
+          {
+            "name": "Operating Budget"
+          },
+          {
+            "name": "Performance Budgeting"
+          },
+          {
+            "name": "Support Services Budgets"
+          }
+        ]
+      },
+      {
+        "name": "Cape Town Stadium",
+        "branches": [
+          {
+            "name": "Commercialisation"
+          },
+          {
+            "name": "Finance (Cts)"
+          },
+          {
+            "name": "Internal Company Services"
+          },
+          {
+            "name": "Marketing, Brands And Events Aquisit"
+          },
+          {
+            "name": "Operations"
+          }
+        ]
+      },
+      {
+        "name": "Expenditure",
+        "branches": [
+          {
+            "name": "Accounts Payable"
+          },
+          {
+            "name": "Payroll Management"
+          },
+          {
+            "name": "Payroll Reconciliation & Fin Compliance"
+          }
+        ]
+      },
+      {
+        "name": "Finance (Fin)",
+        "branches": []
+      },
+      {
+        "name": "Grant Funding",
+        "branches": [
+          {
+            "name": "Grant Finance"
+          },
+          {
+            "name": "Grant Reporting And Compliance"
+          },
+          {
+            "name": "National Housing Programmes And Accreditation Management"
+          }
+        ]
+      },
+      {
+        "name": "Hr Business Partner (Fin)",
+        "branches": [
+          {
+            "name": "Epwp -Epwp Admin Support"
+          },
+          {
+            "name": "Finance Graduate Development Programme"
+          }
+        ]
+      },
+      {
+        "name": "Revenue",
+        "branches": [
+          {
+            "name": "Debt Management"
+          },
+          {
+            "name": "Debtors & Cash"
+          },
+          {
+            "name": "Specialised Services"
+          },
+          {
+            "name": "Technical Services"
+          }
+        ]
+      },
+      {
+        "name": "Supply Chain Management",
+        "branches": [
+          {
+            "name": "Bid Adjudication And Support Services"
+          },
+          {
+            "name": "Demand And Risk Management"
+          },
+          {
+            "name": "Inventory & Stores Management"
+          },
+          {
+            "name": "Procurement"
+          },
+          {
+            "name": "Procurement Excellence & Governance"
+          },
+          {
+            "name": "Supplier Management & Admin Services"
+          },
+          {
+            "name": "Tenders & Contract Manageme"
+          }
+        ]
+      },
+      {
+        "name": "Support Services (Fin)",
+        "branches": []
+      },
+      {
+        "name": "Treasury Services",
+        "branches": [
+          {
+            "name": "Accounting & Assets"
+          },
+          {
+            "name": "Insurance Management"
+          },
+          {
+            "name": "Invest. Relations Compliance & Research"
+          },
+          {
+            "name": "Treasury"
+          }
+        ]
+      },
+      {
+        "name": "Valuations",
+        "branches": [
+          {
+            "name": "Business Environment"
+          },
+          {
+            "name": "Business Integr & Valuation Regulation"
+          },
+          {
+            "name": "Municipal Valuer & Valuations Operations"
+          },
+          {
+            "name": "Valuation Data And Business Systems"
+          },
+          {
+            "name": "Valuations Surveys And Data Quality"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Human Settlements",
+    "departments": [
+      {
+        "name": "Finance (Hs)",
+        "branches": [
+          {
+            "name": "Departmental Finance(Hs) 2"
+          },
+          {
+            "name": "Departmental Finance(Hs) 3"
+          },
+          {
+            "name": "Housing Project Finance (Infrastructure And Top Structure)"
+          },
+          {
+            "name": "Housing Project Finance Region 2"
+          },
+          {
+            "name": "Housing Project Finance Region 3"
+          },
+          {
+            "name": "People'S Housing Process Finance"
+          }
+        ]
+      },
+      {
+        "name": "Home Ownership Transfer, Tenancy Management And Staff Housing",
+        "branches": [
+          {
+            "name": "Home Ownership Transfer, Tenancy Management And Staff Housing"
+          },
+          {
+            "name": "Staff Housing & Hostels Management"
+          },
+          {
+            "name": "Support Services And Administration"
+          },
+          {
+            "name": "Upgrades And Maintenance"
+          }
+        ]
+      },
+      {
+        "name": "Housing Development",
+        "branches": [
+          {
+            "name": "Built Environment Management"
+          },
+          {
+            "name": "Housing Implementation"
+          },
+          {
+            "name": "Land Reform, Social & Gap Housing"
+          }
+        ]
+      },
+      {
+        "name": "Hrbp Human Settlements",
+        "branches": [
+          {
+            "name": "Hr Coordination & Monitoring"
+          }
+        ]
+      },
+      {
+        "name": "Informal Settlements",
+        "branches": [
+          {
+            "name": "Anti Land Invasion"
+          },
+          {
+            "name": "Informal Settlements Upgrades"
+          },
+          {
+            "name": "Service Delivery Implementation,  Coordination And Compliance"
+          },
+          {
+            "name": "Support Services Informal Settlements"
+          }
+        ]
+      },
+      {
+        "name": "Office Administration (Hs)",
+        "branches": []
+      },
+      {
+        "name": "Operational Policy And Planning",
+        "branches": [
+          {
+            "name": "Beneficiary And Tenure Administration"
+          },
+          {
+            "name": "Hs Strategy, Policy And Research"
+          },
+          {
+            "name": "Land And Forward Planning"
+          }
+        ]
+      },
+      {
+        "name": "Project Management Office: Hs",
+        "branches": []
+      },
+      {
+        "name": "Support Services (Hs)",
+        "branches": [
+          {
+            "name": "Human Settlement : Gen Administration"
+          },
+          {
+            "name": "Human Settlement : Logistics Support"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Office Of The City Manager",
+    "departments": [
+      {
+        "name": "Legal Compliance",
+        "branches": [
+          {
+            "name": "Appeals"
+          }
+        ]
+      },
+      {
+        "name": "Office Of The Mayor",
+        "branches": [
+          {
+            "name": "Mayoral Media"
+          },
+          {
+            "name": "Mayoral Office"
+          },
+          {
+            "name": "Mayoral Office Support 1"
+          },
+          {
+            "name": "Mayoral Office Support 2"
+          },
+          {
+            "name": "Stakeholder Engagement"
+          }
+        ]
+      },
+      {
+        "name": "Probity",
+        "branches": [
+          {
+            "name": "Combined Assurance And Governance"
+          },
+          {
+            "name": "Forensic Services"
+          },
+          {
+            "name": "Internal Audit"
+          },
+          {
+            "name": "Ombudsman"
+          },
+          {
+            "name": "Risk, Ethics And Governance"
+          },
+          {
+            "name": "Support Services Probity"
+          }
+        ]
+      },
+      {
+        "name": "Support Services Cm",
+        "branches": [
+          {
+            "name": "International Relations"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Safety And Security",
+    "departments": [
+      {
+        "name": "Disaster Management Risk Centre",
+        "branches": [
+          {
+            "name": "Area Central"
+          },
+          {
+            "name": "Area North"
+          },
+          {
+            "name": "Area South East"
+          },
+          {
+            "name": "Area South West"
+          },
+          {
+            "name": "Dm Training And Capacity Building"
+          },
+          {
+            "name": "Logistics Planning And Fleet"
+          },
+          {
+            "name": "Operations Centre & Systems Intrg Serv."
+          },
+          {
+            "name": "Public Awareness & Preparedness"
+          },
+          {
+            "name": "Special Planning, Critical Infrastructure And Liaison"
+          },
+          {
+            "name": "Training & Capacity Building: Volunteers"
+          }
+        ]
+      },
+      {
+        "name": "Events",
+        "branches": [
+          {
+            "name": "Epwp -Events Staff"
+          },
+          {
+            "name": "Events Coordination"
+          },
+          {
+            "name": "Events Planning"
+          },
+          {
+            "name": "Film And Events Permitting"
+          },
+          {
+            "name": "Support Services Events"
+          }
+        ]
+      },
+      {
+        "name": "Finance (S&S)",
+        "branches": []
+      },
+      {
+        "name": "Fire Services",
+        "branches": [
+          {
+            "name": "Epwp -Clerk"
+          },
+          {
+            "name": "Epwp -Driver"
+          },
+          {
+            "name": "Epwp -Driver"
+          },
+          {
+            "name": "Epwp -Driver"
+          },
+          {
+            "name": "Epwp -Drivers/Team Leaders - North Distr"
+          },
+          {
+            "name": "Epwp -Epwp"
+          },
+          {
+            "name": "Epwp -Epwp Drivers"
+          },
+          {
+            "name": "Epwp -Epwp -Fire Watchroom Clerk East"
+          },
+          {
+            "name": "Epwp -Epwp -Fire Worker East"
+          },
+          {
+            "name": "Epwp -Epwp Workers"
+          },
+          {
+            "name": "Epwp -Epwp Workers"
+          },
+          {
+            "name": "Epwp -Epwp Workers"
+          },
+          {
+            "name": "Epwp -Epwp Workers"
+          },
+          {
+            "name": "Epwp -Epwp Workers"
+          },
+          {
+            "name": "Epwp -Mop-Up Crew/ Worker South"
+          },
+          {
+            "name": "Epwp -Watchroom Clerks - District North"
+          },
+          {
+            "name": "Epwp -Watchroom Clerks - District West"
+          },
+          {
+            "name": "Epwp -Watchroom Clerks South"
+          },
+          {
+            "name": "Epwp -Worker - District North"
+          },
+          {
+            "name": "Epwp -Worker - District West"
+          },
+          {
+            "name": "Epwp -Workshops_Workers"
+          },
+          {
+            "name": "Finance Fire"
+          },
+          {
+            "name": "Fire And Life Safety"
+          },
+          {
+            "name": "Fire Service Command And Control Centre"
+          },
+          {
+            "name": "Fire Training"
+          },
+          {
+            "name": "Operations : District East"
+          },
+          {
+            "name": "Operations : District North"
+          },
+          {
+            "name": "Operations : District South"
+          },
+          {
+            "name": "Operations : District West"
+          },
+          {
+            "name": "Planning & Special Projects"
+          },
+          {
+            "name": "Support Services Fire Services"
+          },
+          {
+            "name": "Workshops"
+          }
+        ]
+      },
+      {
+        "name": "Hr Business Partner (S&S)",
+        "branches": []
+      },
+      {
+        "name": "Metropolitan Police Services",
+        "branches": [
+          {
+            "name": "Cctv & Radio"
+          },
+          {
+            "name": "Central Operations"
+          },
+          {
+            "name": "Finance (Metro Police)"
+          },
+          {
+            "name": "Information Management (Mps)"
+          },
+          {
+            "name": "Special Operations"
+          },
+          {
+            "name": "Support Services Metro Police"
+          },
+          {
+            "name": "Training & Development"
+          }
+        ]
+      },
+      {
+        "name": "Operational Coordination",
+        "branches": [
+          {
+            "name": "Civilian Oversight & Investigations"
+          },
+          {
+            "name": "Law Enforcement Services"
+          },
+          {
+            "name": "Traffic Services"
+          },
+          {
+            "name": "Vip Security Unit"
+          }
+        ]
+      },
+      {
+        "name": "Public Emergency Communications Centre",
+        "branches": [
+          {
+            "name": "Operations"
+          },
+          {
+            "name": "Service Quality"
+          },
+          {
+            "name": "Technical And Operational Support"
+          }
+        ]
+      },
+      {
+        "name": "Safety And Security Pmo",
+        "branches": []
+      },
+      {
+        "name": "Suppport Services (S&S)",
+        "branches": [
+          {
+            "name": "Community Safety Liaison"
+          },
+          {
+            "name": "Substance Abuse Prevention"
+          },
+          {
+            "name": "Support Services"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spatial Planning And Environment",
+    "departments": [
+      {
+        "name": "Environmental Management",
+        "branches": [
+          {
+            "name": "Biodiversity Management"
+          },
+          {
+            "name": "Coastal Management"
+          },
+          {
+            "name": "Environment & Heritage Management"
+          },
+          {
+            "name": "Environmental Compliance"
+          },
+          {
+            "name": "Environmental Planning & Sustainability"
+          },
+          {
+            "name": "Support Services Env Management"
+          }
+        ]
+      },
+      {
+        "name": "Finance (Spe)",
+        "branches": [
+          {
+            "name": "Financial Management Service (Town Planning)"
+          },
+          {
+            "name": "Head Finance Spe"
+          }
+        ]
+      },
+      {
+        "name": "Hr Business Partner (Spe)",
+        "branches": []
+      },
+      {
+        "name": "Planning And Building Development Management",
+        "branches": [
+          {
+            "name": "Area 1 And 2"
+          },
+          {
+            "name": "Area 3 And 4"
+          },
+          {
+            "name": "Business Systems"
+          },
+          {
+            "name": "Dev Policies, Processes & Legislation"
+          },
+          {
+            "name": "Support Services Devman"
+          }
+        ]
+      },
+      {
+        "name": "Project Management Office: (Spe)",
+        "branches": []
+      },
+      {
+        "name": "Support Services (Spe)",
+        "branches": [
+          {
+            "name": "Logistical Support"
+          },
+          {
+            "name": "Performance, Risk And Knowledge Mngment"
+          },
+          {
+            "name": "Stakeholder Management And Advocacy"
+          }
+        ]
+      },
+      {
+        "name": "Urban Catalytic Investment",
+        "branches": [
+          {
+            "name": "Catalytic Investment"
+          },
+          {
+            "name": "Planning And Project Packaging"
+          },
+          {
+            "name": "Programme Coordination And Partnerships"
+          }
+        ]
+      },
+      {
+        "name": "Urban Planning And Design",
+        "branches": [
+          {
+            "name": "District Planning & Mechanisms"
+          },
+          {
+            "name": "Metro Spatial Planning & Growth Managmnt"
+          },
+          {
+            "name": "Support Services Upd"
+          },
+          {
+            "name": "Urban Design"
+          },
+          {
+            "name": "Urban Development Implementation"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Transport",
+    "departments": [
+      {
+        "name": "Administrative Support",
+        "branches": []
+      },
+      {
+        "name": "Business Enablement",
+        "branches": [
+          {
+            "name": "Communications Customer Relations Change & Stakeholder Management"
+          },
+          {
+            "name": "Contracts, Compliance & Risk"
+          },
+          {
+            "name": "Hr Business Partner (Trp)"
+          },
+          {
+            "name": "Tct Administration & Stakeholder Management"
+          },
+          {
+            "name": "Training Academy"
+          }
+        ]
+      },
+      {
+        "name": "Finance (Trp)",
+        "branches": [
+          {
+            "name": "Budget And Resource Allocation"
+          },
+          {
+            "name": "Finance"
+          }
+        ]
+      },
+      {
+        "name": "Integrated Transport Portfolio",
+        "branches": [
+          {
+            "name": "Infrastructure Implementation"
+          },
+          {
+            "name": "Public Transport Regulations"
+          }
+        ]
+      },
+      {
+        "name": "Network Management",
+        "branches": [
+          {
+            "name": "Network Facilitation & Development"
+          },
+          {
+            "name": "Network Integration"
+          },
+          {
+            "name": "Transport Technology"
+          }
+        ]
+      },
+      {
+        "name": "Project Management Office: Transport",
+        "branches": []
+      },
+      {
+        "name": "Public Transport Operations",
+        "branches": [
+          {
+            "name": "Afc/Aptms Management"
+          },
+          {
+            "name": "Contract Management"
+          },
+          {
+            "name": "Facilities Management"
+          },
+          {
+            "name": "Operations"
+          },
+          {
+            "name": "Public Transport Fleet Management"
+          }
+        ]
+      },
+      {
+        "name": "Roads Infrastructure & Management",
+        "branches": [
+          {
+            "name": "Epwp -Catchpit & Pond Cleaning"
+          },
+          {
+            "name": "Epwp -Catchpit And Pond Cleaning"
+          },
+          {
+            "name": "Informal Network Management"
+          },
+          {
+            "name": "Roads Infrastructure And Systems"
+          }
+        ]
+      },
+      {
+        "name": "Transport Planning",
+        "branches": [
+          {
+            "name": "Business Planning"
+          },
+          {
+            "name": "Financial Systems And Transparency"
+          },
+          {
+            "name": "Public Transport Management"
+          },
+          {
+            "name": "Roads Infrastructure Planning And Develo"
+          },
+          {
+            "name": "Systems Planning And Modeling"
+          },
+          {
+            "name": "Transport Forward Planning"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Urban Management",
+    "departments": [
+      {
+        "name": "Area Central",
+        "branches": [
+          {
+            "name": "Area Economic Development Central"
+          },
+          {
+            "name": "Epwp -Area Central Cleaning Precinct Man"
+          },
+          {
+            "name": "Epwp -Area Central Cleaning Precinct Man"
+          },
+          {
+            "name": "Epwp -Area Central Cleaning Precinct Man"
+          },
+          {
+            "name": "Epwp -Area Central Safety Wardens"
+          },
+          {
+            "name": "Epwp -Central Aleo Sc 17"
+          },
+          {
+            "name": "Epwp -Central Comunity Liaison Officers"
+          },
+          {
+            "name": "Epwp -Central Goodwood Cbd Precinct Mana"
+          },
+          {
+            "name": "Epwp -Central Goodwood Cbd Precinct Mana"
+          },
+          {
+            "name": "Epwp -Central Law Enfor Support Monitori"
+          },
+          {
+            "name": "Epwp -Central Law Enfor Support Monitori"
+          },
+          {
+            "name": "Epwp -Central Law Enfor Support Monitori"
+          },
+          {
+            "name": "Epwp -Central Local Labour Park Mainten"
+          },
+          {
+            "name": "Epwp -Central Murp Bellville 10 Aleo"
+          },
+          {
+            "name": "Epwp -Central Murp Precinct Bishop Lavis"
+          },
+          {
+            "name": "Epwp -Central Murp Precinct Bonteheuwel"
+          },
+          {
+            "name": "Epwp -Central Reading Room Care Taker Bi"
+          },
+          {
+            "name": "Epwp -Central Reading Room Care Taker Bo"
+          },
+          {
+            "name": "Epwp -Central Reading Room Care Taker De"
+          },
+          {
+            "name": "Epwp -Central Reading Room Care Taker No"
+          },
+          {
+            "name": "Epwp -Central Sc 6 Admin Clerk"
+          },
+          {
+            "name": "Epwp -Central Ward 25 Customer Relations"
+          },
+          {
+            "name": "Epwp -Central: Customer Centricity"
+          },
+          {
+            "name": "Epwp -Central: Title Deeds"
+          },
+          {
+            "name": "Epwp -Central:Area Management"
+          },
+          {
+            "name": "Epwp -Central:Asset Management"
+          },
+          {
+            "name": "Epwp -Central:Courier Services"
+          },
+          {
+            "name": "Epwp -Central:Epwp Subcouncil Jobseekers"
+          },
+          {
+            "name": "Epwp -Central:Jshd And Randomisation"
+          },
+          {
+            "name": "Epwp -Central:Records Management"
+          },
+          {
+            "name": "Epwp -Central:Transversal Management"
+          },
+          {
+            "name": "Epwp -Murp Central Precinct Mngt Aleo Go"
+          },
+          {
+            "name": "Epwp -Murp Central Precint Mngt Aleo Par"
+          },
+          {
+            "name": "Epwp -Sc17 Community And Econ Dev Progra"
+          },
+          {
+            "name": "Subcouncil 11"
+          },
+          {
+            "name": "Subcouncil 14"
+          },
+          {
+            "name": "Subcouncil 17"
+          },
+          {
+            "name": "Subcouncil 4"
+          },
+          {
+            "name": "Subcouncil 5"
+          },
+          {
+            "name": "Subcouncil 6"
+          },
+          {
+            "name": "Subcouncils Area 3"
+          }
+        ]
+      },
+      {
+        "name": "Area East",
+        "branches": [
+          {
+            "name": "Area Economic Development East"
+          },
+          {
+            "name": "Epwp -East Area Cleaning Group 1"
+          },
+          {
+            "name": "Epwp -East Area Cleaning Group 2"
+          },
+          {
+            "name": "Epwp -East Area Cleaning Group 3"
+          },
+          {
+            "name": "Epwp -East Area Cleaning Group 4"
+          },
+          {
+            "name": "Epwp -East Area Cleaning Supervisors"
+          },
+          {
+            "name": "Epwp -East Area Cleaning Supervisors"
+          },
+          {
+            "name": "Epwp -East Office Cleaners"
+          },
+          {
+            "name": "Epwp -East: Informal Trading Market Mana"
+          },
+          {
+            "name": "Epwp -East: Service Delivery Team"
+          },
+          {
+            "name": "Epwp -East:Asset Management & Support"
+          },
+          {
+            "name": "Epwp -East:Database Maintenace & Campaig"
+          },
+          {
+            "name": "Subcouncil 10"
+          },
+          {
+            "name": "Subcouncil 21"
+          },
+          {
+            "name": "Subcouncil 22"
+          },
+          {
+            "name": "Subcouncil 24"
+          },
+          {
+            "name": "Subcouncil 8"
+          },
+          {
+            "name": "Subcouncil 9"
+          },
+          {
+            "name": "Subcouncils Area 2"
+          }
+        ]
+      },
+      {
+        "name": "Area North",
+        "branches": [
+          {
+            "name": "Area Economic Development North"
+          },
+          {
+            "name": "Epwp -Area Cleaning In Durbanville & Fis"
+          },
+          {
+            "name": "Epwp -Area Cleaning In Durbanville & Fis"
+          },
+          {
+            "name": "Epwp -Biodiversity Management North"
+          },
+          {
+            "name": "Epwp -Employ Mjcp Workers-Ward 107"
+          },
+          {
+            "name": "Epwp -Employ Mjcp Workers-Ward 113"
+          },
+          {
+            "name": "Epwp -Group1 Illegal Dumping & Street Sw"
+          },
+          {
+            "name": "Epwp -Group2 Area Cleaning Durbanville &"
+          },
+          {
+            "name": "Epwp -Murp Street Prople Support North S"
+          },
+          {
+            "name": "Epwp -North Graffiti Cleaning In Sc 16"
+          },
+          {
+            "name": "Epwp -North Improvement Atlantic Hangber"
+          },
+          {
+            "name": "Epwp -North Project Support"
+          },
+          {
+            "name": "Epwp -North: Compliance Officers"
+          },
+          {
+            "name": "Epwp -North: Students/Interns Per Subcou"
+          },
+          {
+            "name": "Epwp -North: Students/Interns Per Subcou"
+          },
+          {
+            "name": "Epwp -North:Transversal Management"
+          },
+          {
+            "name": "Epwp -Precinct Management North"
+          },
+          {
+            "name": "Subcouncil 1"
+          },
+          {
+            "name": "Subcouncil 15"
+          },
+          {
+            "name": "Subcouncil 16"
+          },
+          {
+            "name": "Subcouncil 2"
+          },
+          {
+            "name": "Subcouncil 3"
+          },
+          {
+            "name": "Subcouncil 7"
+          },
+          {
+            "name": "Subcouncils Area 1"
+          }
+        ]
+      },
+      {
+        "name": "Area South",
+        "branches": [
+          {
+            "name": "Area Economic Development South"
+          },
+          {
+            "name": "Epwp -Director Um South:Support Staff"
+          },
+          {
+            "name": "Epwp -Informal Settlements South"
+          },
+          {
+            "name": "Epwp -Job Seekers Help Desk"
+          },
+          {
+            "name": "Epwp -Nature Conservation Students South"
+          },
+          {
+            "name": "Epwp -Receptionist"
+          },
+          {
+            "name": "Epwp -South 10 Aleo Murp"
+          },
+          {
+            "name": "Epwp -South 10 Aleo-Mainstream"
+          },
+          {
+            "name": "Epwp -South Compliance Officers"
+          },
+          {
+            "name": "Epwp -South Murp 31 Aleo Sc 12"
+          },
+          {
+            "name": "Epwp -South Murp 31 Aleo Sc 12"
+          },
+          {
+            "name": "Epwp -South Murp 31 Aleo Sc 18"
+          },
+          {
+            "name": "Epwp -South Murp 31 Aleo Sc 18"
+          },
+          {
+            "name": "Epwp -South Murp 31 Aleo Sc 23"
+          },
+          {
+            "name": "Epwp -South Murp 31 Aleo Sc 23"
+          },
+          {
+            "name": "Epwp -South: Auxilliary Liaison Officers"
+          },
+          {
+            "name": "Epwp -South:Driver"
+          },
+          {
+            "name": "Subcouncil 12"
+          },
+          {
+            "name": "Subcouncil 13"
+          },
+          {
+            "name": "Subcouncil 18"
+          },
+          {
+            "name": "Subcouncil 19"
+          },
+          {
+            "name": "Subcouncil 20"
+          },
+          {
+            "name": "Subcouncil 23"
+          },
+          {
+            "name": "Subcouncils Area 4"
+          }
+        ]
+      },
+      {
+        "name": "City Improvement Districts",
+        "branches": [
+          {
+            "name": "Cid"
+          }
+        ]
+      },
+      {
+        "name": "Councillor Support",
+        "branches": [
+          {
+            "name": "Councillors"
+          },
+          {
+            "name": "Office Of The Chief Whip"
+          },
+          {
+            "name": "Office Of The Speaker"
+          }
+        ]
+      },
+      {
+        "name": "Epwp And Cdw",
+        "branches": [
+          {
+            "name": "Epwp Coordination"
+          },
+          {
+            "name": "Epwp -Epwp Corporate Compliance"
+          },
+          {
+            "name": "Epwp -Epwp Data Centre"
+          },
+          {
+            "name": "Epwp -Monitoring & Compliance Epwp"
+          },
+          {
+            "name": "Epwp -Project & Support - Epwp"
+          },
+          {
+            "name": "Monitoring And Reporting"
+          },
+          {
+            "name": "Projects And Support"
+          },
+          {
+            "name": "Public Employment & Skills Development"
+          }
+        ]
+      },
+      {
+        "name": "Finance (Um)",
+        "branches": [
+          {
+            "name": "Capital Budget And Assets"
+          },
+          {
+            "name": "Operating Budget"
+          }
+        ]
+      },
+      {
+        "name": "Hr Business Partner(Um)",
+        "branches": []
+      },
+      {
+        "name": "Murp Area Central",
+        "branches": [
+          {
+            "name": "Urban Renewal Programme"
+          }
+        ]
+      },
+      {
+        "name": "Murp Area East",
+        "branches": [
+          {
+            "name": "Community Environment Office (Khay)"
+          },
+          {
+            "name": "Community Liaison ( Khayelitsha )"
+          },
+          {
+            "name": "Development Coordinator (Khayelitsha)"
+          },
+          {
+            "name": "Economic Development (Khayelitsha)"
+          },
+          {
+            "name": "Project Support & Coordination (Khay)"
+          },
+          {
+            "name": "Project Support & Coordination (Khayelit"
+          }
+        ]
+      },
+      {
+        "name": "Murp Area North",
+        "branches": [
+          {
+            "name": "Communication And Marketing"
+          },
+          {
+            "name": "Epwp -Murp North Training & Deploy 10 Al"
+          },
+          {
+            "name": "Epwp -Murp North Training & Deploy 10 Al"
+          },
+          {
+            "name": "Epwp -Murp North Training & Deploy 10 Al"
+          },
+          {
+            "name": "Ndpg Coordination"
+          },
+          {
+            "name": "Project Consolidation"
+          },
+          {
+            "name": "Project Support & Coordination"
+          },
+          {
+            "name": "Research And Knowledge Management"
+          },
+          {
+            "name": "Skills Development & Empowerment"
+          },
+          {
+            "name": "Social Crime Prevention Coordinator"
+          },
+          {
+            "name": "Social Crime Prevention Program"
+          }
+        ]
+      },
+      {
+        "name": "Murp Area South",
+        "branches": [
+          {
+            "name": "Community Environment Office (M'Plain)"
+          },
+          {
+            "name": "Community Liaison (M'Plain)"
+          },
+          {
+            "name": "Development Coordinator (M/Plain)"
+          },
+          {
+            "name": "Economic Development (Mitchells Plain)"
+          },
+          {
+            "name": "Project Support & Coordination (M'Plain)"
+          }
+        ]
+      },
+      {
+        "name": "Pmo (Um)",
+        "branches": []
+      },
+      {
+        "name": "Public Participation",
+        "branches": [
+          {
+            "name": "Epwp -Public Participation Fieldworkers"
+          },
+          {
+            "name": "Epwp -Public Participation Fieldworkers"
+          },
+          {
+            "name": "Epwp -Public Participation Fieldworkers"
+          },
+          {
+            "name": "Epwp -Public Participation Fieldworkers"
+          },
+          {
+            "name": "Epwp -Public Participation Fieldworkers"
+          },
+          {
+            "name": "Epwp -Public Participation Fieldworkers"
+          },
+          {
+            "name": "Epwp -Public Participation Fieldworkers"
+          },
+          {
+            "name": "Epwp -Public Participation Fieldworkers"
+          },
+          {
+            "name": "Epwp -Public Participation Fieldworkers"
+          },
+          {
+            "name": "Regional Operations"
+          }
+        ]
+      },
+      {
+        "name": "Support Services (Um)",
+        "branches": [
+          {
+            "name": "Departmental Support Services"
+          },
+          {
+            "name": "Inter Directorate Liaison Sub Councils"
+          },
+          {
+            "name": "Service Coordination And Logistics"
+          }
+        ]
+      },
+      {
+        "name": "Vpuu (Violence Prevention Through Urban Upgrading)",
+        "branches": []
+      }
+    ]
+  },
+  {
+    "name": "Water And Waste",
+    "departments": [
+      {
+        "name": "Finance (Wws)",
+        "branches": []
+      },
+      {
+        "name": "Project Monitoring Unit",
+        "branches": [
+          {
+            "name": "Water And Waste: Pmo"
+          }
+        ]
+      },
+      {
+        "name": "Solid Waste Management",
+        "branches": [
+          {
+            "name": "Cleansing"
+          },
+          {
+            "name": "Collections"
+          },
+          {
+            "name": "Contract Management Services"
+          },
+          {
+            "name": "Disposal"
+          },
+          {
+            "name": "Finance & Commercial (Solid Waste)"
+          },
+          {
+            "name": "Hr Business Partner (Sw)"
+          },
+          {
+            "name": "Planning"
+          },
+          {
+            "name": "Support Services Solid Waste"
+          },
+          {
+            "name": "Technical Services"
+          }
+        ]
+      },
+      {
+        "name": "Support Services (Wws)",
+        "branches": [
+          {
+            "name": "Occupational Health & Safety (Utility Services)"
+          },
+          {
+            "name": "Service Integration"
+          }
+        ]
+      },
+      {
+        "name": "Water And Sanitation Services",
+        "branches": [
+          {
+            "name": "Bulk Services"
+          },
+          {
+            "name": "Bulk Water"
+          },
+          {
+            "name": "Commercial Services"
+          },
+          {
+            "name": "Customer Services (Water)"
+          },
+          {
+            "name": "Engineering & Asset Management"
+          },
+          {
+            "name": "Finance & Commercial Water & Sanitation"
+          },
+          {
+            "name": "Hr Business Partner (Water & Sanitation)"
+          },
+          {
+            "name": "Informal Settlements Basic Services"
+          },
+          {
+            "name": "Programmes And Development"
+          },
+          {
+            "name": "Retail Services"
+          },
+          {
+            "name": "Reticulation"
+          },
+          {
+            "name": "Rivers, Stormwater & Catchment Management"
+          },
+          {
+            "name": "Scientific Services"
+          },
+          {
+            "name": "Support Services (Water And Sanitation)"
+          },
+          {
+            "name": "Technical Services"
+          },
+          {
+            "name": "Wastewater"
+          },
+          {
+            "name": "Water Demand Management"
+          },
+          {
+            "name": "Water Resilience Project"
+          }
+        ]
+      }
+    ]
+  }
+]

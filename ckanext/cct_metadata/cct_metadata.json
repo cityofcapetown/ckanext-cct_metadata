@@ -120,13 +120,19 @@
       "label": "DS/TR Branch",
       "field_name": "dstr_branch",
       "help_text": "Indicates the organisational unit (branch) of the data steward",
-      "required": true
+      "required": true,
+      "preset": "select",
+      "choices_helper": "cct_metadata_get_branches",
+      "validators": "cct_metadata_check_branch"
     },
     {
       "label": "DS/TR Department",
       "field_name": "dstr_department",
       "help_text": "Indicates the organisational unit (department) of the data steward",
-      "required": true
+      "required": true,
+      "preset": "select",
+      "choices_helper": "cct_metadata_get_departments",
+      "validators": "cct_metadata_check_department"
     },
     {
       "label": "DS/TR Directorate",
