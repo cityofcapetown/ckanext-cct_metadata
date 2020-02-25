@@ -142,16 +142,17 @@
       "preset": "dataset_organization"
     },
     {
-      "label": "Data Contact ",
+      "label": "Data Contact",
       "field_name": "data_contact_",
       "help_text": "Indicates the official who works most closely with and can best provide additional information about the data and metadata",
       "required": true
     },
     {
       "label": "Data Custodian",
-      "field_name": "data_custodian",
+      "field_name": "publisher",
       "help_text": "Indicates the individual who is responsible for the technical management of the date e.g. the hosting and serving of the data",
-      "required": true
+      "required": true,
+      "display_property": "dc:publisher"
     },
     {
       "label": "Host System ID",

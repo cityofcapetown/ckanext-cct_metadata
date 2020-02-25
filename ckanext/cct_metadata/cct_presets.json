@@ -1,6 +1,6 @@
 {
   "scheming_presets_version": 1,
-  "about": "these are the default scheming field presets",
+  "about": "these are the scheming presets for the City of Cape Town metadata schema.",
   "about_url": "https://github.com/cityofcapetown/ckanext-cct_metadata",
   "presets": [
     {

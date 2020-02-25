@@ -17,7 +17,7 @@ setup(
     # http://packaging.python.org/en/latest/tutorial.html#version
     version='0.0.1',
 
-    description='''Applys City of Cape Town metadata.''',
+    description='''Applies City of Cape Town metadata''',
     long_description=long_description,
 
     # The project's main homepage.
@@ -36,7 +36,7 @@ setup(
         # 3 - Alpha
         # 4 - Beta
         # 5 - Production/Stable
-        'Development Status :: 4 - Alpha',
+        'Development Status :: 3 - Alpha',
 
         # Pick your license as you wish (should match "license" above)
         'License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)',
