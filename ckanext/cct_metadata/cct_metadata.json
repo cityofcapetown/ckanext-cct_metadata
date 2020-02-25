@@ -106,7 +106,7 @@
       "label": "Data Format",
       "field_name": "data_format",
       "help_text": "Provides an indication of the interoperable structure of the data as reflected by the primary file format in which the system exports data",
-      "required": true,
+      "required": false,
       "preset": "resource_format_autocomplete"
     },
     {
