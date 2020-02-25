@@ -58,7 +58,7 @@
       "label": "Update Frequency",
       "field_name": "update_frequency",
       "help_text": "How often is data updated in the data set?",
-      "required": true,
+      "required": false,
       "preset": "select",
       "choices": [
         {
@@ -75,7 +75,7 @@
       "label": "Data Access Rights",
       "field_name": "data_access_rights",
       "help_text": "Indicates the classification of the dataset in terms of access",
-      "required": true,
+      "required": false,
       "preset": "select",
       "choices": [
         {
@@ -113,14 +113,14 @@
       "label": "Data Steward",
       "field_name": "maintainer",
       "help_text": "Indicates the individual who assumes business accountability for the dataset in relation to aspects such as access, quality, integrity, completeness.",
-      "required": true,
+      "required": false,
       "display_property": "dc:contributor"
     },
     {
       "label": "DS/TR Branch",
       "field_name": "dstr_branch",
       "help_text": "Indicates the organisational unit (branch) of the data steward",
-      "required": true,
+      "required": false,
       "preset": "select",
       "choices_helper": "cct_metadata_get_branches",
       "validators": "cct_metadata_check_branch"
@@ -129,7 +129,7 @@
       "label": "DS/TR Department",
       "field_name": "dstr_department",
       "help_text": "Indicates the organisational unit (department) of the data steward",
-      "required": true,
+      "required": false,
       "preset": "select",
       "choices_helper": "cct_metadata_get_departments",
       "validators": "cct_metadata_check_department"
@@ -138,33 +138,33 @@
       "label": "DS/TR Directorate",
       "field_name": "owner_org",
       "help_text": "Indicates the organisational unit (directorate) of the data steward",
-      "required": true,
+      "required": false,
       "preset": "dataset_organization"
     },
     {
       "label": "Data Contact",
       "field_name": "data_contact_",
       "help_text": "Indicates the official who works most closely with and can best provide additional information about the data and metadata",
-      "required": true
+      "required": false
     },
     {
       "label": "Data Custodian",
       "field_name": "publisher",
       "help_text": "Indicates the individual who is responsible for the technical management of the date e.g. the hosting and serving of the data",
-      "required": true,
+      "required": false,
       "display_property": "dc:publisher"
     },
     {
       "label": "Host System ID",
       "field_name": "host_system_id",
       "help_text": "Unique ID of the appilication in which the data is stored (primary/source system)",
-      "required": true
+      "required": false
     },
     {
       "label": "Spatial Coverage",
       "field_name": "spatial_coverage",
       "help_text": "Is there any spatial data in this dataset?",
-      "required": true,
+      "required": false,
       "preset": "select",
       "choices": [
         {
@@ -209,7 +209,7 @@
       "label": "Temporal Coverage",
       "field_name": "temporal_coverage",
       "help_text": "Is there any temporal data in this dataset?",
-      "required": true,
+      "required": false,
       "preset": "boolean_select"
     },
     {
