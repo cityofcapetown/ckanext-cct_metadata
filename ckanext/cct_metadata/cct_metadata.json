@@ -165,7 +165,45 @@
       "field_name": "spatial_coverage",
       "help_text": "Is there any spatial data in this dataset?",
       "required": true,
-      "preset": "boolean_select"
+      "preset": "select",
+      "choices": [
+        {
+          "label": "NA",
+          "value": "na"
+        },
+        {
+          "label": "<1m\u00b2",
+          "value": "<1m\u00b2"
+        },
+        {
+          "label": "<10m\u00b2",
+          "value": "<10m\u00b2"
+        },
+        {
+          "label": "<100m\u00b2",
+          "value": "<100m\u00b2"
+        },
+        {
+          "label": "<1km\u00b2",
+          "value": "<1km\u00b2"
+        },
+        {
+          "label": "<10km\u00b2",
+          "value": "<10km\u00b2"
+        },
+        {
+          "label": "<100km\u00b2",
+          "value": "<100km\u00b2"
+        },
+        {
+          "label": "<1000km\u00b2",
+          "value": "<1000km\u00b2"
+        },
+        {
+          "label": "<10000km\u00b2",
+          "value": "<10000km\u00b2"
+        }
+      ]
     },
     {
       "label": "Temporal Coverage",
@@ -173,6 +211,18 @@
       "help_text": "Is there any temporal data in this dataset?",
       "required": true,
       "preset": "boolean_select"
+    },
+    {
+      "label": "Temporal Coverage Start",
+      "field_name": "temporal_coverage_start",
+      "help_text": "Start date of temporal coverage.",
+      "preset": "date"
+    },
+    {
+      "label": "Temporal Coverage End",
+      "field_name": "temporal_coverage_end",
+      "help_text": "End date of temporal coverage.",
+      "preset": "date"
     }
   ]
 }
