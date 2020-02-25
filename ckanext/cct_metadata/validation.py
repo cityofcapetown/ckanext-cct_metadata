@@ -1,9 +1,7 @@
-import json
-import os
-
-import ckanext
 from ckanext.cct_metadata import helpers
 from ckan.lib.navl import dictization_functions
+
+from ckanext.cct_metadata import UNDER_CONSTRUCTION
 
 
 def department_check(key, data, errors, context):
@@ -14,8 +12,9 @@ def department_check(key, data, errors, context):
     model = context['model']
     directorate = helpers.label_to_value(model.Group.get(directorate_id).title)
 
-    if department not in city_structure_mappings.get(directorate, {}):
-        raise dictization_functions.Invalid("Department is not in Directorate")
+    departments = city_structure_mappings.get(directorate, {})
+    if department not in departments and directorate != UNDER_CONSTRUCTION:
+        raise dictization_functions.Invalid("Department is not in select directorate")
 
     return department
 
@@ -31,7 +30,7 @@ def branch_check(key, data, errors, context):
 
     departments = city_structure_mappings.get(directorate, {})
     branches = departments.get(department, {})
-    if branch not in branches:
-        raise dictization_functions.Invalid("Branch is not in Department")
+    if branch not in branches and directorate != UNDER_CONSTRUCTION:
+        raise dictization_functions.Invalid("Branch is not in selected department")
 
     return branch
