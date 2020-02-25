@@ -36,7 +36,7 @@
     },
     {
       "label": "Data Set Name",
-      "field_name": "name",
+      "field_name": "title",
       "help_text": "A name given to the dataset.",
       "required": true,
       "preset": "title"
