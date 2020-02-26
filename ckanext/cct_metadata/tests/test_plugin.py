@@ -82,8 +82,9 @@ class Cct_MetadataPluginHelpersTest(unittest.TestCase):
 class Cct_MetadataPluginValidationTest(unittest.TestCase):
     def _get_directorate_from_model_with_id(self):
         class TestModel:
-            def __init__(self, Group={}):
-                self.Group = Group
+            def __init__(self, group={}):
+                self.Group = group
+
         class TestGroup:
             def __init__(self, title=""):
                 self.title = title
