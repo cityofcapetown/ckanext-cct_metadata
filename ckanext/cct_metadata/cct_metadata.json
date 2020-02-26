@@ -117,6 +117,14 @@
       "display_property": "dc:contributor"
     },
     {
+      "field_name": "maintainer_email",
+      "label": "Data Steward Email",
+      "form_placeholder": "Sipho.Dlamini@capetown.gov.za",
+      "display_property": "dc:contributor",
+      "display_snippet": "email.html",
+      "display_email_name_field": "maintainer"
+    },
+    {
       "label": "DS/TR Branch",
       "field_name": "dstr_branch",
       "help_text": "Indicates the organisational unit (branch) of the data steward",
@@ -148,11 +156,27 @@
       "required": false
     },
     {
+      "field_name": "data_contact_email",
+      "label": "Data Contact Email",
+      "form_placeholder": "Sipho.Dlamini@capetown.gov.za",
+      "display_property": "dc:contributor",
+      "display_snippet": "email.html",
+      "display_email_name_field": "data_contact_"
+    },
+    {
       "label": "Data Custodian",
       "field_name": "publisher",
       "help_text": "Indicates the individual who is responsible for the technical management of the date e.g. the hosting and serving of the data",
       "required": false,
       "display_property": "dc:publisher"
+    },
+    {
+      "field_name": "publisher_email",
+      "label": "Data Custodian Email",
+      "form_placeholder": "Sipho.Dlamini@capetown.gov.za",
+      "display_property": "dc:contributor",
+      "display_snippet": "email.html",
+      "display_email_name_field": "publisher"
     },
     {
       "label": "Host System ID",
