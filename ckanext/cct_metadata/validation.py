@@ -4,13 +4,20 @@ from ckan.lib.navl import dictization_functions
 from ckanext.cct_metadata import UNDER_CONSTRUCTION
 
 
+def _get_directorate_from_model_with_id(model, directorate_id):
+    directorate_group = model.Group.get(directorate_id)
+    directorate = helpers.label_to_value(directorate_group.title) if directorate_group is not None else None
+
+    return directorate
+
+
 def department_check(key, data, errors, context):
     department = data[key]
     city_structure_mappings = helpers.build_structure_mappings()
 
     directorate_id = data[('owner_org',)]
     model = context['model']
-    directorate = helpers.label_to_value(model.Group.get(directorate_id).title)
+    directorate = _get_directorate_from_model_with_id(model, directorate_id)
 
     departments = city_structure_mappings.get(directorate, {})
     if department not in departments and directorate != UNDER_CONSTRUCTION:
@@ -25,7 +32,7 @@ def branch_check(key, data, errors, context):
 
     directorate_id = data[('owner_org',)]
     model = context['model']
-    directorate = helpers.label_to_value(model.Group.get(directorate_id).title)
+    directorate = _get_directorate_from_model_with_id(model, directorate_id)
     department = data[('dstr_department',)]
 
     departments = city_structure_mappings.get(directorate, {})
