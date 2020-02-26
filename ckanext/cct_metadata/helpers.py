@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 import ckan.plugins.toolkit as toolkit
 from ckanext.cct_metadata import CITY_STRUCTURE_FILENAME
@@ -15,7 +16,7 @@ def load_city_structure():
     return city_structure_data
 
 
-def load_city_structure_mappings():
+def build_structure_mappings():
     city_structure = load_city_structure()
     city_structure_mappings = {
         label_to_value(directorate["name"]): {
@@ -34,12 +35,19 @@ def load_city_structure_mappings():
 
 
 def label_to_value(label):
-    return (
+    sanitised_string = (
         label.strip()
              .lower()
              .replace(" ", "_")
-             .replace(r'\W', "")
     )
+
+    pattern = re.compile(r'\W')
+    sanitised_string = re.sub(
+        pattern, "",
+        sanitised_string
+    )
+
+    return sanitised_string
 
 
 def get_departments(*args):
@@ -69,5 +77,3 @@ def get_branches(*args):
     ]
 
     return branches
-
-

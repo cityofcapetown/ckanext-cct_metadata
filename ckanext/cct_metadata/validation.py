@@ -6,7 +6,7 @@ from ckanext.cct_metadata import UNDER_CONSTRUCTION
 
 def department_check(key, data, errors, context):
     department = data[key]
-    city_structure_mappings = helpers.load_city_structure_mappings()
+    city_structure_mappings = helpers.build_structure_mappings()
 
     directorate_id = data[('owner_org',)]
     model = context['model']
@@ -14,14 +14,14 @@ def department_check(key, data, errors, context):
 
     departments = city_structure_mappings.get(directorate, {})
     if department not in departments and directorate != UNDER_CONSTRUCTION:
-        raise dictization_functions.Invalid("Department is not in select directorate")
+        raise dictization_functions.Invalid("Department is not in selected directorate")
 
     return department
 
 
 def branch_check(key, data, errors, context):
     branch = data[key]
-    city_structure_mappings = helpers.load_city_structure_mappings()
+    city_structure_mappings = helpers.build_structure_mappings()
 
     directorate_id = data[('owner_org',)]
     model = context['model']
