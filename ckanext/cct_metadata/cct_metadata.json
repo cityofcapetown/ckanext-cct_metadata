@@ -43,16 +43,16 @@
     },
     {
       "label": "Data Set Description (Including purpose)",
-      "field_name": "data_set_description",
+      "field_name": "notes",
       "help_text": "A summary of the dataset.",
-      "required": true,
+      "required": false,
       "form_snippet": "markdown.html"
     },
     {
       "label": "Data Quality",
       "field_name": "data_quality",
       "help_text": "Subjective assesment of dataset quality.",
-      "required": true
+      "required": false
     },
     {
       "label": "Update Frequency",
