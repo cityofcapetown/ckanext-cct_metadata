@@ -147,7 +147,7 @@
     },
     {
       "label": "Data Steward Org Unit",
-      "field_name": "ds_org_unit",
+      "field_name": "owner_org",
       "help_text": "Indicates the organisational unit of the data steward. This organisational unit effectively \"owns\" the dataset",
       "required": false,
       "preset": "dataset_organization"
@@ -205,10 +205,6 @@
         {
           "label": "Other",
           "value": "other"
-        },
-        {
-          "label": "Microsoft",
-          "value": "microsoft"
         },
         {
           "label": "Microsoft",
