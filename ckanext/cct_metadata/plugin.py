@@ -15,3 +15,9 @@ class Cct_MetadataPlugin(plugins.SingletonPlugin):
         toolkit.add_template_directory(config_, 'templates')
         toolkit.add_public_directory(config_, 'public')
         toolkit.add_resource('fanstatic', 'cct_metadata')
+
+    def get_helpers(self):
+        return {}
+
+    def get_validators(self):
+        return {}
