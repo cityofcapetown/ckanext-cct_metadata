@@ -75,7 +75,7 @@
       "label": "Data Access Rights",
       "field_name": "data_access_rights",
       "help_text": "Indicates the classification of the dataset in terms of access",
-      "required": false,
+      "required": true,
       "preset": "select",
       "choices": [
         {
