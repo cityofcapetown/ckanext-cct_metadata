@@ -42,7 +42,7 @@
       "preset": "title"
     },
     {
-      "label": "Data Set Description (Including purpose)",
+      "label": "Data Set Description",
       "field_name": "notes",
       "help_text": "A summary of the dataset.",
       "required": false,
@@ -51,7 +51,7 @@
     {
       "label": "Data Quality",
       "field_name": "data_quality",
-      "help_text": "Subjective assesment of dataset quality.",
+      "help_text": "Subjective assessment of dataset quality.",
       "required": false
     },
     {
@@ -103,6 +103,27 @@
       "required": false
     },
     {
+      "label": "Data Type",
+      "field_name": "data_type",
+      "help_text": "",
+      "required": false,
+      "preset": "select",
+      "choices": [
+        {
+          "label": "Transactional",
+          "value": "transactional"
+        },
+        {
+          "label": "Master Data",
+          "value": "master"
+        },
+        {
+          "label": "Reference",
+          "value": "reference"
+        }
+      ]
+    },
+    {
       "label": "Data Format",
       "field_name": "data_format",
       "help_text": "Provides an indication of the interoperable structure of the data as reflected by the primary file format in which the system exports data",
@@ -125,39 +146,21 @@
       "display_email_name_field": "maintainer"
     },
     {
-      "label": "DS/TR Branch",
-      "field_name": "dstr_branch",
-      "help_text": "Indicates the organisational unit (branch) of the data steward",
-      "required": false,
-      "preset": "select",
-      "choices_helper": "cct_metadata_get_branches",
-      "validators": "cct_metadata_check_branch"
-    },
-    {
-      "label": "DS/TR Department",
-      "field_name": "dstr_department",
-      "help_text": "Indicates the organisational unit (department) of the data steward",
-      "required": false,
-      "preset": "select",
-      "choices_helper": "cct_metadata_get_departments",
-      "validators": "cct_metadata_check_department"
-    },
-    {
-      "label": "DS/TR Directorate",
-      "field_name": "owner_org",
-      "help_text": "Indicates the organisational unit (directorate) of the data steward",
+      "label": "Data Steward Org Unit",
+      "field_name": "ds_org_unit",
+      "help_text": "Indicates the organisational unit of the data steward. This organisational unit effectively \"owns\" the dataset",
       "required": false,
       "preset": "dataset_organization"
     },
     {
-      "label": "Data Contact",
-      "field_name": "data_contact_",
+      "label": "Technical Reference",
+      "field_name": "technical_reference",
       "help_text": "Indicates the official who works most closely with and can best provide additional information about the data and metadata",
       "required": false
     },
     {
-      "field_name": "data_contact_email",
-      "label": "Data Contact Email",
+      "field_name": "technical_reference_email",
+      "label": "Technical Reference Email",
       "form_placeholder": "Sipho.Dlamini@capetown.gov.za",
       "display_property": "dc:contributor",
       "display_snippet": "email.html",
@@ -179,74 +182,39 @@
       "display_email_name_field": "publisher"
     },
     {
-      "label": "Host System ID",
-      "field_name": "host_system_id",
-      "help_text": "Unique ID of the appilication in which the data is stored (primary/source system)",
+      "label": "Host System Name",
+      "field_name": "host_system_name",
+      "help_text": "Unique Name of the application in which the data is stored (primary/source system)",
       "required": false
     },
     {
-      "label": "Spatial Coverage",
-      "field_name": "spatial_coverage",
-      "help_text": "Is there any spatial data in this dataset?",
+      "label": "Host System Vendor",
+      "field_name": "host_system_vendor",
+      "help_text": "Type of the application in which the data is stored. Might refer to the vendor of the System.",
       "required": false,
       "preset": "select",
       "choices": [
         {
-          "label": "NA",
-          "value": "na"
+          "label": "ESRI",
+          "value": "esri"
         },
         {
-          "label": "<1m\u00b2",
-          "value": "<1m\u00b2"
+          "label": "SAP",
+          "value": "sap"
         },
         {
-          "label": "<10m\u00b2",
-          "value": "<10m\u00b2"
+          "label": "Other",
+          "value": "other"
         },
         {
-          "label": "<100m\u00b2",
-          "value": "<100m\u00b2"
+          "label": "Microsoft",
+          "value": "microsoft"
         },
         {
-          "label": "<1km\u00b2",
-          "value": "<1km\u00b2"
-        },
-        {
-          "label": "<10km\u00b2",
-          "value": "<10km\u00b2"
-        },
-        {
-          "label": "<100km\u00b2",
-          "value": "<100km\u00b2"
-        },
-        {
-          "label": "<1000km\u00b2",
-          "value": "<1000km\u00b2"
-        },
-        {
-          "label": "<10000km\u00b2",
-          "value": "<10000km\u00b2"
+          "label": "Microsoft",
+          "value": "microsoft"
         }
       ]
-    },
-    {
-      "label": "Temporal Coverage",
-      "field_name": "temporal_coverage",
-      "help_text": "Is there any temporal data in this dataset?",
-      "required": false,
-      "preset": "boolean_select"
-    },
-    {
-      "label": "Temporal Coverage Start",
-      "field_name": "temporal_coverage_start",
-      "help_text": "Start date of temporal coverage.",
-      "preset": "date"
-    },
-    {
-      "label": "Temporal Coverage End",
-      "field_name": "temporal_coverage_end",
-      "help_text": "End date of temporal coverage.",
-      "preset": "date"
     }
   ]
 }
