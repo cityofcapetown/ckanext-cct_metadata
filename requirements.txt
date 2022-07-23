@@ -1,1 +1,1 @@
-git+git://github.com/ckan/ckanext-scheming
+git+https://github.com/ckan/ckanext-scheming.git@release-1.2.0
